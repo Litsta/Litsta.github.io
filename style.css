@@ -89,6 +89,14 @@ H4 {
     height: auto;
     object-fit: cover;
 }
+.triangle_enter {
+    height: 0px;
+    width: 0px; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 20px solid #5e4040;
+}
+
 .triangle_left {
     height: 0px;
     width: 0px; 
